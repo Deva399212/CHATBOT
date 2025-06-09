@@ -115,7 +115,6 @@ pygame
 Pygments
 PyMuPDF
 pyparsing
-pypiwin32
 python-json-logger
 pytz
 pywin32
