@@ -3,7 +3,6 @@ ale-py
 altair
 annotated-types
 anyio
-archspec @ file:///croot/archspec_1709217642129/work
 argon2-cffi
 argon2-cffi-bindings
 arrow
@@ -15,30 +14,17 @@ babel
 beautifulsoup4
 bleach
 blinker
-boltons @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/boltons_1699480450092/work
-Brotli @ file:///C:/b/abs_3d36mno480/croot/brotli-split_1714483178642/work
 cachetools
 cattrs
-certifi @ file:///C:/b/abs_7bbxxprxir/croot/certifi_1720453609121/work/certifi
-cffi @ file:///C:/b/abs_78eb1_vq6z/croot/cffi_1714483206096/work
-charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
 click
 cloudpickle
-colorama @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorama_1699472650914/work
 comm
 comtypes
-conda @ file:///C:/b/abs_69e_za3rd5/croot/conda_1722004627938/work
-conda-content-trust @ file:///C:/b/abs_bdfatn_wzf/croot/conda-content-trust_1714483201909/work
-conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1721662679737/work/src
-conda-package-handling @ file:///C:/b/abs_831_pypuuz/croot/conda-package-handling_1718138287790/work
-conda_package_streaming @ file:///C:/b/abs_fe6zb0_j8_/croot/conda-package-streaming_1718136098642/work
 contourpy
-cryptography @ file:///C:/b/abs_97lgskwerx/croot/cryptography_1714664736250/work
 cycler
 debugpy
 decorator
 defusedxml
-distro @ file:///C:/b/abs_71xr36ua5r/croot/distro_1714488282676/work
 envs
 executing
 faiss-cpu
@@ -48,7 +34,6 @@ filelock
 flatbuffers
 fonttools
 fqdn
-frozendict @ file:///C:/b/abs_2alamqss6p/croot/frozendict_1713194885124/work
 fsspec
 gast
 gitdb
@@ -63,7 +48,6 @@ h5py
 httpcore
 httpx
 huggingface-hub
-idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
 ipykernel
 ipython
 isoduration
@@ -71,7 +55,6 @@ jedi
 Jinja2
 joblib
 json5
-jsonpatch @ file:///C:/b/abs_4fdm88t7zi/croot/jsonpatch_1714483974578/work
 jsonpointer
 jsonschema
 jsonschema-specifications
@@ -87,14 +70,12 @@ jupyterlab_server
 keras
 kiwisolver
 libclang
-libmambapy @ file:///C:/b/abs_89suv9zwkz/croot/mamba-split_1714484512428/work/libmambapy
 Markdown
 markdown-it-py
 MarkupSafe
 matplotlib
 matplotlib-inline
 mdurl
-menuinst @ file:///C:/b/abs_76jwd47ck1/croot/menuinst_1723567618942/work
 mistune
 ml_dtypes
 mlagents
@@ -116,13 +97,10 @@ opencv-python
 opt_einsum
 optree
 overrides
-packaging @ file:///C:/b/abs_c3vlh0z4jw/croot/packaging_1720101866539/work
 pandas
 pandocfilters
 parso
 pillow
-platformdirs @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/platformdirs_1701797392447/work
-pluggy @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pluggy_1699472504117/work
 prometheus_client
 prompt_toolkit
 protobuf
@@ -130,8 +108,6 @@ psutil
 pure_eval
 pyarrow
 pycaw
-pycosat @ file:///C:/b/abs_5csdern___/croot/pycosat_1714513102923/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pydantic
 pydantic_core
 pydeck
@@ -140,8 +116,6 @@ Pygments
 PyMuPDF
 pyparsing
 pypiwin32
-PySocks @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pysocks_1699473336188/work
-python-dateutil==2.9.0.post0
 python-json-logger
 pytz
 pywin32
@@ -151,12 +125,10 @@ pyzmq
 ray
 referencing
 regex
-requests @ file:///C:/b/abs_9frifg92q2/croot/requests_1721410901096/work
 rfc3339-validator
 rfc3986-validator
 rich
 rpds-py
-ruamel.yaml @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/ruamel.yaml_1699483184324/work
 safetensors
 scikit-learn
 scipy
@@ -188,15 +160,12 @@ tokenizers
 toml
 torch
 tornado
-tqdm @ file:///C:/b/abs_a7h7n45ccq/croot/tqdm_1716395987133/work
 traitlets
 transformers
-truststore @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/truststore_1701881385424/work
 types-python-dateutil
 typing_extensions
 tzdata
 uri-template
-urllib3 @ file:///C:/b/abs_a7hvzm4y95/croot/urllib3_1718912661242/work
 vizdoom
 watchdog
 wcwidth
@@ -205,7 +174,5 @@ webencodings
 websocket-client
 Werkzeug
 wheel
-win-inet-pton @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/win_inet_pton_1699472992992/work
 WMI
 wrapt
-zstandard @ file:///C:/b/abs_e46tf0_91g/croot/zstandard_1714678303615/work
