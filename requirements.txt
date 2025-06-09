@@ -1,7 +1,6 @@
 ﻿absl-py
 ale-py
 altair
-anaconda-anon-usage @ file:///C:/b/abs_c3w_h1zzjg/croot/anaconda-anon-usage_1710965204622/work
 annotated-types
 anyio
 archspec @ file:///croot/archspec_1709217642129/work
