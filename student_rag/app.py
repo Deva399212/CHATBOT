@@ -16,8 +16,10 @@ headless = true
 """)
 
 
-# Load model and index
-model = SentenceTransformer('all-MiniLM-L6-v2')
+@st.cache_resource
+def load_model():
+    return SentenceTransformer('all-MiniLM-L6-v2')
+model = load_model()
 
 INDEX_PATH = "data/index.faiss"
 CHUNKS_PATH = "data/chunks.pkl"
