@@ -4,6 +4,17 @@ import pickle
 import numpy as np
 from sentence_transformers import SentenceTransformer
 import os
+import os
+
+os.makedirs('.streamlit', exist_ok=True)
+with open('.streamlit/config.toml', 'w') as f:
+    f.write("""
+[server]
+port = 10000
+enableCORS = false
+headless = true
+""")
+
 
 # Load model and index
 model = SentenceTransformer('all-MiniLM-L6-v2')
